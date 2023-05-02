@@ -1,5 +1,5 @@
 # BlindLine-Top-3-NEOM-OXAGON-Hackathon
-The repository contains the script and dataset used to create the project: BlindLine. BlindLine is an innovative education system for the visually impaired that utilizes computer vision technologies.
+This repository contains the script and dataset used to create the project: BlindLine. BlindLine is an innovative education system for the visually impaired that utilizes computer vision technologies.
 
 It is a ring-like device, with a Raspberry Pi Zero, speaker, and camera, to enable the visually impaired in learning the braille language easily and independently. The camera captures an image of the braille and the speaker translate that braille character to audio. 
 
