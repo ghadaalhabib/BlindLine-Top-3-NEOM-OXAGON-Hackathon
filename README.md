@@ -7,5 +7,4 @@ It acts to replicate how it is usually done with instructors. Achieving braille 
 
 https://user-images.githubusercontent.com/67872328/235788201-23564d73-6e98-44ed-a481-91f659fca196.mp4
 
-<img width="400" alt="Screen Shot 2023-02-13 at 5 13 11 PM" src="https://user-images.githubusercontent.com/67872328/235856868-a4b03d51-ed08-4f8e-8294-d48eae5c783b.png">
-<img width="400" alt="model" src="https://user-images.githubusercontent.com/67872328/235856936-e9b512b0-bf7b-4250-b5c9-608d42caf85a.png">
+<img width="400" alt="Screen Shot 2023-02-13 at 5 13 11 PM" src="https://user-images.githubusercontent.com/67872328/235856868-a4b03d51-ed08-4f8e-8294-d48eae5c783b.png"> <img width="400" alt="model" src="https://user-images.githubusercontent.com/67872328/235856936-e9b512b0-bf7b-4250-b5c9-608d42caf85a.png">
